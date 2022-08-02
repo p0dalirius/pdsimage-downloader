@@ -12,6 +12,7 @@
 
 ## Features
 
+ - [x] Working on windows and linux.
  - [x] Filter on specific filenames with `--name-contains` option.
  - [x] Choose the download directory with the `--output-dir` option.
 
@@ -21,6 +22,12 @@ In order to use this script we need to install `bs4`, `lxml`, `requests` and `ri
 
 ```
 python3 -m pip install -r requirements.txt
+```
+
+or directly
+
+```  
+pip install bs4 lxml requests rich
 ```
 
 ## Usage

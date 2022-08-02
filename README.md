@@ -55,11 +55,11 @@ optional arguments:
 
 ## On Windows:
 
-
+https://user-images.githubusercontent.com/79218792/182469698-cce9bb6c-d57f-4588-9f16-eeb09215b775.mp4
 
 ## On Linux:
 
-
+https://user-images.githubusercontent.com/79218792/182469687-fb5d2f3c-29f5-431f-bd0f-8beb55b10a56.mp4
 
 ## Contributing
 

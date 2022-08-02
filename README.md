@@ -45,6 +45,10 @@ optional arguments:
 
 ## Example
 
+```
+./pdsimage_downloader.py --name-contains _DM_ -u https://pdsimage2.wr.usgs.gov/archive/mess-h-mdis-5-dem-elevation-v1.0/MESSDEM_1001/DEM/REGIONAL/IMG/
+```
+
 ![](./.github/example.png)
 
 ## Demonstration

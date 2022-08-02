@@ -13,7 +13,7 @@
 ## Features
 
  - [x] Filter on specific filenames with `--name-contains` option.
- - [x] Choose the download directory with the `--list-cves` option.
+ - [x] Choose the download directory with the `--output-dir` option.
 
 ## Installation
 

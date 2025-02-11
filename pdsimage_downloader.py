@@ -18,7 +18,7 @@ requests.packages.urllib3.util.connection.HAS_IPV6 = False
 
 
 def parseArgs():
-    print("pdsimage downloader v1.1 - by @podalirius_\n")
+    print("pdsimage downloader v1.1 - by Remi GASCOU (Podalirius)\n")
     parser = argparse.ArgumentParser(description="A python script to filter by filename and download PDS images.")
     parser.add_argument("-u", "--url", default=None, required=True, help='URL of the PDS image archive.')
     parser.add_argument("-n", "--name-contains", default='', type=str, help='Filtering only files where the name contains this string.')

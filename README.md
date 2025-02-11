@@ -34,7 +34,7 @@ pip install bs4 lxml requests rich
 
 ```
 $ ./pdsimage_downloader.py  -h
-pdsimage downloader v1.1 - by @podalirius_
+pdsimage downloader v1.1 - by Remi GASCOU (Podalirius)
 
 usage: pdsimage_downloader.py [-h] -u URL [-n NAME_CONTAINS] [-D OUTPUT_DIR] [-v]
 
